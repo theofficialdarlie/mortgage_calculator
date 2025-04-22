@@ -26,6 +26,9 @@ pip install streamlit numpy_financial pandas
 
 # Run the app
 streamlit run mortgage_calc.py
+```
+
+---
 
 ## Notes
 
